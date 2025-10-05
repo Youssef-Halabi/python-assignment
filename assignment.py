@@ -24,6 +24,8 @@ while True:
             print("Withdrawal successful. New balance = ", Balance)
     else:
         print("Goodbye!")
+        break
+    
 
 
 
